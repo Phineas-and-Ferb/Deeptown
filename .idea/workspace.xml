@@ -22,7 +22,52 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish" />
+    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Lab01/Coding phase defects checklist.png" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/Coding phase defects checklist.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Lab01/RequirementsInventory_v2.0.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/RequirementsInventory_v2.0.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/AddPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/AddProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/MainScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MainScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/ModifyPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/ModifyProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/InhousePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/InhousePart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/OutsourcedPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/OutsourcedPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Part.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/AddPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddPart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/AddProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddProduct.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainScreen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ModifyPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ModifyPart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ModifyProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ModifyProduct.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/AddPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/AddPart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/AddProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/AddProduct.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/MainScreen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ModifyPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ModifyPart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ModifyProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ModifyProduct.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddPartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyPartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/InhousePart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/OutsourcedPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Part.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/repository/InventoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,11 +105,8 @@
     <property name="settings.editor.selected.configurable" value="sonarlint" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="inventory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -73,16 +115,20 @@
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java" />
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java\inventory" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="inventory.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Deeptown" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inventory.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,7 +214,7 @@
       <workItem from="1646849208016" duration="260000" />
       <workItem from="1648042712986" duration="921000" />
       <workItem from="1648043699872" duration="921000" />
-      <workItem from="1648045041118" duration="1607000" />
+      <workItem from="1648045041118" duration="5457000" />
     </task>
     <task id="LOCAL-00001" summary="proiect functional ish">
       <created>1648046258341</created>
@@ -204,30 +250,34 @@
     </state>
     <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1646846521678" />
     <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1648046031662" />
+    <state x="466" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1648047201566">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.30.1366.738@0.30.1366.738" timestamp="1648047201566" />
     <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl" timestamp="1648043836030">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1648043836030" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648046186093">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648048878400">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1648046186093" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648046186092">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648048878400">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1648046186092" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648046186092">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648048878400">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1648046186092" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648046186093">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648048878400">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1648046186093" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
     <state x="257" y="30" key="SettingsEditor" timestamp="1648045669143">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
