@@ -4,11 +4,46 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="" />
+    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ece56c845d15f2c366abf3aa1a07420ba35ea01b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/initial/ClassDiagram.uml" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/initial/ClassDiagram.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/MainScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inventory/controller/MainScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/items.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/items.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/AddPartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/AddProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyPartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/InhousePart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/model/InhousePart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/model/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/OutsourcedPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/model/OutsourcedPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/model/Part.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/repository/InventoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inventory/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/service/InventoryService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1XnjTxzMvVIKGBK6PrZfwB6Utll" />
   <component name="ProjectViewState">
@@ -16,6 +51,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -25,9 +61,13 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.25462964" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="sonarlint" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="inventory" />
     </key>
@@ -37,15 +77,13 @@
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java" />
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java\inventory" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
-    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="inventory.Main" />
-      <module name="Inventory" />
+      <module name="02_Inventory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inventory.*" />
@@ -117,11 +155,47 @@
       <workItem from="1645233776813" duration="845000" />
       <workItem from="1645273416358" duration="134000" />
       <workItem from="1645273645002" duration="4000" />
+      <workItem from="1645638631031" duration="336000" />
+      <workItem from="1646844070527" duration="2595000" />
+      <workItem from="1646848002430" duration="288000" />
+      <workItem from="1646849208016" duration="260000" />
+      <workItem from="1648042712986" duration="921000" />
+      <workItem from="1648043699872" duration="921000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646846521678">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1646846521678" />
+    <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl" timestamp="1648043836030">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1648043836030" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1646847790272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1646847790272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1646847790272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1646847790272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1648043918894">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1648043918894" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

@@ -80,7 +80,9 @@ public class MainScreenController implements Initializable,Controller {
     @FXML
     private TextField productsSearchTxt;
 
-    public MainScreenController(){}
+    public MainScreenController() {
+
+    }
 
     public void setService(InventoryService service){
         this.service=service;

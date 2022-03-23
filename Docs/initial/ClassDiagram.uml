@@ -3,39 +3,61 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="-105.13636363636363" y="-15.5">com</node>
-    <node x="79.00000000000003" y="28.136363636363626">fxml</node>
-    <node x="620.8181818181818" y="604.5000000000001">images</node>
-    <node x="23.5" y="462.77272727272737">netscape</node>
-    <node x="230.72727272727275" y="437.22727272727275">data</node>
-    <node x="523.3181818181818" y="-95.5">org</node>
-    <node x="246.0000000000001" y="684.5000000000002">toolbarButtonGraphics</node>
-    <node x="592.909090909091" y="309.95454545454527">inventory</node>
-    <node x="459.18181818181824" y="497.22727272727275">sun</node>
-    <node x="-12.5" y="348.1363636363637">jdk</node>
-    <node x="159.50000000000003" y="-79.13636363636365">META-INF</node>
-    <node x="-80.5" y="-128.22727272727275">impl</node>
-    <node x="14.545454545454561" y="97.22727272727275">groovyjarjarasm</node>
-    <node x="258.1818181818182" y="-186.40909090909093">java</node>
-    <node x="298.0000000000001" y="244.5">groovy</node>
-    <node x="-46.5" y="244.5">javax</node>
-    <node x="820.5000000000002" y="560.5000000000001">groovyjarjarpicocli</node>
-    <node x="802.0000000000003" y="112.50000000000003">groovyjarjarcommonscli</node>
-    <node x="414.00000000000006" y="51.77272727272725">javafx</node>
-    <node x="-57.0" y="624.5000000000002">groovyjarjarantlr</node>
+    <node x="173.0" y="547.5345052083334">com</node>
+    <node x="0.0" y="471.53450520833337">fxml</node>
+    <node x="410.0" y="319.53450520833337">images</node>
+    <node x="0.0" y="319.53450520833337">netscape</node>
+    <node x="173.0" y="471.53450520833337">data</node>
+    <node x="338.0" y="547.5345052083334">org</node>
+    <node x="347.0" y="131.53450520833334">toolbarButtonGraphics</node>
+    <node x="261.0" y="243.53450520833337">inventory</node>
+    <node x="0.0" y="623.5345052083334">sun</node>
+    <node x="165.0" y="623.5345052083334">jdk</node>
+    <node x="205.0" y="319.53450520833337">META-INF</node>
+    <node x="346.0" y="471.53450520833337">impl</node>
+    <node x="0.0" y="243.53450520833337">groovyjarjarasm</node>
+    <node x="0.0" y="547.5345052083334">java</node>
+    <node x="0.0" y="395.53450520833337">groovy</node>
+    <node x="378.0" y="395.53450520833337">javax</node>
+    <node x="40.0" y="15.534505208333336">groovyjarjarpicocli</node>
+    <node x="30.0" y="131.53450520833334">groovyjarjarcommonscli</node>
+    <node x="189.0" y="395.53450520833337">javafx</node>
+    <node x="373.0" y="15.534505208333336">groovyjarjarantlr</node>
   </nodes>
   <notes />
-  <edges />
-  <settings layout="Hierarchic" zoom="0.5499999999999999" showDependencies="false" x="375.0" y="266.0" />
+  <edges>
+    <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+      <point x="-77.33333333333333" y="15.5" />
+      <point x="411.6666666666667" y="66.53450520833334" />
+      <point x="353.0" y="66.53450520833334" />
+      <point x="353.0" y="41.36783854166667" />
+      <point x="-116.0" y="10.333333333333334" />
+    </edge>
+    <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+      <point x="68.0" y="15.5" />
+      <point x="234.0" y="192.53450520833334" />
+      <point x="0.0" y="192.53450520833334" />
+      <point x="0.0" y="139.28450520833334" />
+      <point x="-136.0" y="-7.75" />
+    </edge>
+    <edge source="groovyjarjarpicocli" target="groovyjarjarpicocli">
+      <point x="82.66666666666669" y="15.5" />
+      <point x="246.66666666666669" y="86.53450520833334" />
+      <point x="0.0" y="86.53450520833334" />
+      <point x="0.0" y="20.701171875" />
+      <point x="-124.0" y="-10.333333333333336" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7499999999999999" x="375.0" y="266.81818181818187" />
   <SelectedNodes>
     <node>com</node>
   </SelectedNodes>
   <Categories>
-    <Category>Constructors</Category>
     <Category>Fields</Category>
-    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
     <Category>Methods</Category>
     <Category>Properties</Category>
+    <Category>Inner Classes</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
