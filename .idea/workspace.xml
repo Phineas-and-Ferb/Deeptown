@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inventory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" afterDir="false" />
-    </list>
+    <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,48 +150,75 @@
       <workItem from="1646849208016" duration="260000" />
       <workItem from="1648042712986" duration="921000" />
       <workItem from="1648043699872" duration="921000" />
-      <workItem from="1648045041118" duration="912000" />
+      <workItem from="1648045041118" duration="1245000" />
     </task>
+    <task id="LOCAL-00001" summary="proiect functional ish">
+      <created>1648046258341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648046258341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proiect functional ish" />
+    <option name="LAST_COMMIT_MESSAGE" value="proiect functional ish" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648045728023">
+    <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648046031662">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1646846521678" />
-    <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1648045728023" />
+    <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1648046031662" />
     <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl" timestamp="1648043836030">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1648043836030" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648045730717">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648046186093">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1648045730717" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648045730717">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1648046186093" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648046186092">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1648045730717" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648045730717">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1648046186092" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648046186092">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1648045730717" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648045730717">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1648046186092" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648046186093">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1648045730717" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1648046186093" />
     <state x="257" y="30" key="SettingsEditor" timestamp="1648045669143">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1648043918894" />
     <state x="257" y="30" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1648045669143" />
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2" timestamp="1648046261017">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1648046261017" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
