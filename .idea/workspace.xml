@@ -3,6 +3,24 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +168,7 @@
       <workItem from="1646849208016" duration="260000" />
       <workItem from="1648042712986" duration="921000" />
       <workItem from="1648043699872" duration="921000" />
-      <workItem from="1648045041118" duration="1245000" />
+      <workItem from="1648045041118" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="proiect functional ish">
       <created>1648046258341</created>
@@ -215,10 +233,10 @@
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1648043918894" />
     <state x="257" y="30" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1648045669143" />
-    <state x="275" y="118" key="Vcs.Push.Dialog.v2" timestamp="1648046261017">
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2" timestamp="1648046650457">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1648046261017" />
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1648046650457" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
