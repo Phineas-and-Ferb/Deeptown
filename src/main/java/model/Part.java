@@ -83,7 +83,8 @@ public abstract class Part {
      * @param errorMessage
      * @return
      */
-    public static String isValidPart(String name, double price, int inStock, int min, int max, String errorMessage) {
+    public static String isValidPart(String name, double price, int inStock, int min, int max) {
+        String errorMessage = "";
         if(name.equals("")) {
             errorMessage += "A name has not been entered. ";
         }

@@ -23,48 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60c45c8b83590f796b548300881eb5e32034406b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f314193286495a02fb473e4cf32b85ed85f7dcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/959d3be9e6d77120b22cdef08892aae567b3ccfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Lab01/Coding phase defects checklist.png" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/Coding phase defects checklist.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Lab01/RequirementsInventory_v2.0.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/RequirementsInventory_v2.0.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/AddPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/AddProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/MainScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MainScreenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/ModifyPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/controller/ModifyProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/InhousePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/InhousePart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/OutsourcedPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/OutsourcedPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Part.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/InventoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inventory/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/AddPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddPart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/AddProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddProduct.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainScreen.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ModifyPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ModifyPart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ModifyProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ModifyProduct.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/AddPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/AddPart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/AddProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/AddProduct.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/MainScreen.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ModifyPart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ModifyPart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ModifyProduct.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ModifyProduct.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddPartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/AddProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/MainScreenController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyPartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/controller/ModifyProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/InhousePart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Inventory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/OutsourcedPart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Part.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/repository/InventoryRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inventory/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Part.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/AddPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/AddPartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/AddProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/AddProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MainScreenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MainScreenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ModifyPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ModifyPartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ModifyProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ModifyProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/InhousePart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/InhousePart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/OutsourcedPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/OutsourcedPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Part.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repository/InventoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/InventoryService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
@@ -75,6 +60,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,6 +79,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XnjTxzMvVIKGBK6PrZfwB6Utll" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -96,6 +91,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -105,9 +102,20 @@
     <property name="settings.editor.selected.configurable" value="sonarlint" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+      <recent name="controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
+      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="inventory" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources\data" />
@@ -115,12 +123,8 @@
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java" />
       <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\java\inventory" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main" />
-      <recent name="E:\VVSS\CamiVVSS_ro2019-2020\Labs\Proiecte\Inventory\src\main\resources" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.InventoryServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -142,6 +146,21 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02_Inventory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.InventoryServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,9 +195,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Maven.Inventory [exec:java]" />
+      <item itemvalue="JUnit.InventoryServiceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InventoryServiceTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -215,6 +236,10 @@
       <workItem from="1648042712986" duration="921000" />
       <workItem from="1648043699872" duration="921000" />
       <workItem from="1648045041118" duration="5457000" />
+      <workItem from="1648058976667" duration="708000" />
+      <workItem from="1648583230663" duration="17000" />
+      <workItem from="1648634360033" duration="1532000" />
+      <workItem from="1649151207767" duration="13749000" />
     </task>
     <task id="LOCAL-00001" summary="proiect functional ish">
       <created>1648046258341</created>
@@ -239,6 +264,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="proiect functional ish" />
@@ -250,6 +276,10 @@
     </state>
     <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1646846521678" />
     <state x="217" y="83" width="933" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1648046031662" />
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1649235616997">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1649235616997" />
     <state x="466" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1648047201566">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -258,25 +288,25 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="742" y="258" width="440" height="511" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1648043836030" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648048878400">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1649252937550">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1649252937550" />
     <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648048878400">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1649252937550">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1649252937550" />
     <state width="1322" height="177" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648048878400">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1649252937550">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1649252937550" />
     <state width="1322" height="177" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648048878400">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1649252937550">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1646847790272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1649252937550" />
     <state width="1322" height="177" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1648048878400" />
     <state x="257" y="30" key="SettingsEditor" timestamp="1648045669143">
       <screen x="0" y="30" width="1366" height="738" />
@@ -287,6 +317,14 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1648046650457" />
+    <state x="650" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1649155700855">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="650" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1649155700855" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1649235959297">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1649235959297" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

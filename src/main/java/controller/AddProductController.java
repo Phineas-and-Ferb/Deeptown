@@ -206,23 +206,20 @@ public class AddProductController implements Initializable, Controller {
         errorMessage = "";
 
         try {
-            errorMessage = Product.isValidProduct(name, Double.parseDouble(price), Integer.parseInt(inStock), Integer.parseInt(min), Integer.parseInt(max), addParts, errorMessage);
-            if(errorMessage.length() > 0) {
-                Alert alert = new Alert(Alert.AlertType.INFORMATION);
-                alert.setTitle("Error Adding Part!");
-                alert.setHeaderText("Error!");
-                alert.setContentText(errorMessage);
-                alert.showAndWait();
-            } else {
                 service.addProduct(name, Double.parseDouble(price), Integer.parseInt(inStock), Integer.parseInt(min), Integer.parseInt(max), addParts);
                 displayScene(event, "/fxml/MainScreen.fxml");
-            }
         } catch (NumberFormatException e) {
             System.out.println("Form contains blank field.");
             Alert alert = new Alert(Alert.AlertType.INFORMATION);
             alert.setTitle("Error Adding Product!");
             alert.setHeaderText("Error!");
             alert.setContentText("Form contains blank field.");
+            alert.showAndWait();
+        } catch (RuntimeException e) {
+            Alert alert = new Alert(Alert.AlertType.INFORMATION);
+            alert.setTitle("Error Adding Part!");
+            alert.setHeaderText("Error!");
+            alert.setContentText(e.getMessage());
             alert.showAndWait();
         }
 
