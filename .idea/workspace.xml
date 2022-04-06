@@ -23,35 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d01e246a-d9fb-4816-bc10-a56ab29f7454" name="Default Changelist" comment="proiect functional ish">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60c45c8b83590f796b548300881eb5e32034406b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f314193286495a02fb473e4cf32b85ed85f7dcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/959d3be9e6d77120b22cdef08892aae567b3ccfc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddPartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/AddProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyPartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ModifyProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Part.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/InventoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/AddPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/AddPartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/AddProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/AddProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/MainScreenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MainScreenController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/ModifyPartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ModifyPartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/ModifyProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ModifyProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/InhousePart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/InhousePart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Inventory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/OutsourcedPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/OutsourcedPart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Part.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repository/InventoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/InventoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/service/InventoryServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/InventoryServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +212,7 @@
       <workItem from="1648058976667" duration="708000" />
       <workItem from="1648583230663" duration="17000" />
       <workItem from="1648634360033" duration="1532000" />
-      <workItem from="1649151207767" duration="13749000" />
+      <workItem from="1649151207767" duration="14649000" />
     </task>
     <task id="LOCAL-00001" summary="proiect functional ish">
       <created>1648046258341</created>

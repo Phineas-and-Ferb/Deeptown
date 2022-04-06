@@ -118,16 +118,5 @@ class InventoryServiceTest {
                 Arguments.of("p3", 7.75, 10, 10, 50, FXCollections.observableArrayList())
         );
     }
-
-    @Test
-    void addProductECP() {
-        validAddProductECP();
-        invalidAddProductECP();
-    }
-
-    @Test
-    void addProductBVA() {
-        validAddProductBVA();
-        invalidAddProductBVA();
-    }
+    
 }
