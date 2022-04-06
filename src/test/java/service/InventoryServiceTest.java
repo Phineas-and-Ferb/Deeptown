@@ -54,7 +54,7 @@ class InventoryServiceTest {
     private static Stream<Arguments> validAddProductECP() {
         return Stream.of(
                 Arguments.of("p1", 12, 5, 1, 10, parts),
-                Arguments.of("p2", 5.75, 10, 10, 50, parts)
+                Arguments.of("p2", 5.75, 11, 10, 50, parts)
         );
     }
 
@@ -111,12 +111,12 @@ class InventoryServiceTest {
     @TestFactory
     private static Stream<Arguments> invalidAddProductBVA() {
         return Stream.of(
-                Arguments.of("p1", 5.5, 5, 10, 20, parts),
-                Arguments.of("p1", 12, 10, 11, 10, parts),
-                Arguments.of("p1", 12, 9, 10, 11, parts),
-                Arguments.of("p2", 0.01, 13, 10, 50, parts),
+                Arguments.of("p1", 5.5, 5, 10, 20, parts), // pretul este egal cu suma preturilor produselor
+                Arguments.of("p1", 12, 10, 11, 10, parts), // min > max
+                Arguments.of("p1", 12, 9, 10, 11, parts), // inStock < min
+                Arguments.of("p2", 0.01, 13, 10, 50, parts), // pret < 0.01
                 Arguments.of("p3", 7.75, 10, 10, 50, FXCollections.observableArrayList())
         );
     }
-    
+
 }
