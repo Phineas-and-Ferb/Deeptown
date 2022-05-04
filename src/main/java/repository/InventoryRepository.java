@@ -193,7 +193,8 @@ public class InventoryRepository {
 		ObservableList<Product> products = inventory.getProducts();
 		boolean isFound = false;
 		for(Product p: products) {
-			if(p.getName().contains(search) || (p.getProductId()+"").equals(search)) return p;
+			if(p.getName().contains(search)) return p;
+			else if((p.getProductId()+"").equals(search)) return p;
 			isFound = true;
 		}
 		if(isFound == false) {
