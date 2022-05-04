@@ -189,7 +189,7 @@ public class InventoryRepository {
 		return inventory.lookupPart(search);
 	}
 
-	public Product lookupProduct (String search){
+		public Product lookupProduct (String search){
 		ObservableList<Product> products = inventory.getProducts();
 		boolean isFound = false;
 		for(Product p: products) {
