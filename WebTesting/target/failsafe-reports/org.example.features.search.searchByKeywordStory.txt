@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.searchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 63.657 s <<< FAILURE! - in org.example.features.search.searchByKeywordStory
+testLogin[0](org.example.features.search.searchByKeywordStory)  Time elapsed: 6.986 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.example.features.search.searchByKeywordStory.testLogin(searchByKeywordStory.java:31)
+

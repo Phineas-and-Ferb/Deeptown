@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Test login","FAILURE","2022-05-10T18:53:17.7592917+03:00[Europe/Bucharest]","0.0","14.71"
+"Search by keyword story","Test functionalities","SUCCESS","2022-05-10T18:53:18.3542252+03:00[Europe/Bucharest]","0.0","52.09"
